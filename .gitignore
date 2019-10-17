@@ -1,0 +1,9 @@
+yarn.lock
+README.md
+node_modules/
+i18n
+Dockerfile/
+docker-compose.yml
+build/
+docs/
+Dockerfile
