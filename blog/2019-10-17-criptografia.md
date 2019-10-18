@@ -1,5 +1,5 @@
 ---
-title: Criptografica
+title: Criptografia
 author: Alejandro Morales
 ---
 ![alt-text](assets/cifrado.png)
