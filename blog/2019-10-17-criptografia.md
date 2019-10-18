@@ -2,6 +2,10 @@
 title: Criptografia
 author: Alejandro Morales
 ---
+
+PRUEBA1
+
+
 ![alt-text](assets/cifrado.png)
 
 Básicamente la criptografía es la técnica que protege documentos y datos. Funciona a través de la utilización de cifras o códigos para escribir algo secreto en documentos y datos confidenciales que circulan en redes locales o en internet.
