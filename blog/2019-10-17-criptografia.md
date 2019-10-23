@@ -3,7 +3,7 @@ title: Criptografia
 author: Alejandro Morales
 ---
 
-PRU
+prueba script
 
 
 ![alt-text](assets/cifrado.png)
